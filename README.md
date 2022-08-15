@@ -29,4 +29,7 @@ I'm a flutter developer from 🌁 Tashkent, Uzbekistan. Currently, I'm working o
 | --- | --- | --- |
 | Piano App | <a href= "https://flutterawesome.com/flutter-piano-app-black-and-white/"> Piano App in Flutter </a> | <a href= "https://github.com/Komron-Mirzo/piano_app"> Piano App in Flutter </a> |
 | Quotes App Local Json | <a href= "https://flutterawesome.com/quotes-json-using-local-dart-file-2-times/"> Quotes App in Flutter </a> | <a href= "https://github.com/Komron-Mirzo/quotes_json_2"> Quotes App in Flutter </a> |
+| Current Weather App |  | <a href= "https://github.com/Komron-Mirzo/weather_app"> Weather App  </a> |
+| SoundTouch App Clone | <a href= "https://flutterawesome.com/sound-touch-app-clone-using-flutter/"> SoundTouch App Clone </a> | <a href= "https://github.com/Komron-Mirzo/sound_touch"> SoundTouch App Clone </a> |
+
 
