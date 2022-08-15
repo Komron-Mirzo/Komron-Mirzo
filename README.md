@@ -22,3 +22,11 @@ I'm a flutter developer from 🌁 Tashkent, Uzbekistan. Currently, I'm working o
 | Car MarketPlace UI | <a href= "https://flutterawesome.com/car-marketplace-app-ui-in-flutter/"> Car Marketplace UI </a> | <a href= "https://github.com/Komron-Mirzo/car_marketplace_ui"> Car Marketplace UI </a> |
 | Fruits App UI| <a href= "https://flutterawesome.com/fruits-shop-app-ui-design-in-flutter/">Fruits App UI </a> | <a href= "https://github.com/Komron-Mirzo/FruitsApp"> Fruits App UI </a> |
 | Zoomrad App UI Clone | <a href= "https://play.google.com/store/apps/details?id=uz.aloqabank.zoomrad&hl=ru&gl=US"> Main resource to clone </a> | <a href= "https://github.com/Komron-Mirzo/fin_app_ui"> Fin App UI Clone </a>  |
+
+### Flutter App Projects
+
+| Project Name | Flutter Awesome link | Github link |
+| --- | --- | --- |
+| Piano App | <a href= "https://flutterawesome.com/flutter-piano-app-black-and-white/"> Piano App in Flutter </a> | <a href= "https://github.com/Komron-Mirzo/piano_app"> Piano App in Flutter </a> |
+| Quotes App Local Json | <a href= "https://flutterawesome.com/quotes-json-using-local-dart-file-2-times/"> Quotes App in Flutter </a> | <a href= "https://github.com/Komron-Mirzo/quotes_json_2"> Quotes App in Flutter </a> |
+
