@@ -6,6 +6,9 @@ I'm a flutter developer from 🌁 Tashkent, Uzbekistan. Currently, I'm working o
 
 🙌 Communication, ✍ Fast-learning, 🤵 Coachability, ⌚ Time-management, ✅ Problem solving, ❤️️ Hardworking, 
 
+### My tech skills
+
+![](https://img.shields.io/badge/Code-Dart-<COLOR>) ![](https://img.shields.io/badge/Framework-Flutter-<COLOR>) ![](https://img.shields.io/badge/UI-Flutter-<COLOR>) ![](https://img.shields.io/badge/Flutter-SDK-<COLOR>) ![](https://img.shields.io/badge/Firebase-Firestore-<COLOR>) ![](https://img.shields.io/badge/Dart-Lifecycle-<COLOR>) ![](https://img.shields.io/badge/Dart-Async-<COLOR>) ![](https://img.shields.io/badge/Code-OOP-<COLOR>) ![](https://img.shields.io/badge/Git-Github-<COLOR>) ![](https://img.shields.io/badge/Dart-GetX-<COLOR>) ![](https://img.shields.io/badge/Dart-BloC-<COLOR>) ![](https://img.shields.io/badge/Open-API-<COLOR>) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
