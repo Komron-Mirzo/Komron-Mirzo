@@ -32,4 +32,11 @@ I'm a flutter developer from 🌁 Tashkent, Uzbekistan. Currently, I'm working o
 | Current Weather App |  | <a href= "https://github.com/Komron-Mirzo/weather_app"> Weather App  </a> |
 | SoundTouch App Clone | <a href= "https://flutterawesome.com/sound-touch-app-clone-using-flutter/"> SoundTouch App Clone </a> | <a href= "https://github.com/Komron-Mirzo/sound_touch"> SoundTouch App Clone </a> |
 
+### How to reach me
+
+<a href="https://www.linkedin.com/in/komron-mirzo-abduvaliev-5a1892196/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue"> </a>
+<a href="https://https://t.me/Mevlana1994"> <img src="https://img.shields.io/badge/Telegram-User-blue"> </a>
+
+
+
 
