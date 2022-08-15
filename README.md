@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hey 👋, I'm Komron-Mirzo!
 
-<!--
-**Komron-Mirzo/Komron-Mirzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a flutter developer from 🌁 Tashkent, Uzbekistan. Currently, I'm working on side projects 🔥 and actively making Flutter (dart) 📲 apps.
+
+### My soft skills
+
+🙌 Communication, ✍ Fast-learning, 🤵 Coachability, ⌚ Time-management, ✅ Problem solving, ❤️️ Hardworking, 
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
