@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Komron-Mirzo!
 
-I'm a flutter developer from 🌁 Tashkent, Uzbekistan. Currently, I'm working on side projects 🔥 and actively making Flutter (dart) 📲 apps.
+I'm a Front End developer from 🌁 Tashkent, Uzbekistan. Currently, I'm working on side projects 🔥 and actively learning Front end Technologies and Flutter (dart) 📲 apps.
 
 ### My soft skills
 
