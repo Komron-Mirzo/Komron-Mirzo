@@ -1,4 +1,4 @@
-### Hey 👋, I'm Komron-Mirzo!
+### Hey 👋, I'm Komron!
 
 I'm a Front End developer from 🌁 Tashkent, Uzbekistan. Currently, I'm working on side projects 🔥 and actively learning Front end Technologies and Flutter (dart) 📲 apps.
 
