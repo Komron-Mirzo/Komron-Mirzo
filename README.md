@@ -10,10 +10,6 @@ I'm a Full Stack Developer from 🌁 Tashkent, Uzbekistan, with 5+ years of expe
 
 ![](https://img.shields.io/badge/Code-PHP-blue) ![](https://img.shields.io/badge/Code-JavaScript-yellow)![](https://img.shields.io/badge/Database-MySQL-blue)![](https://img.shields.io/badge/Code-HTML-orange)![](https://img.shields.io/badge/Code-CSS-green)![](https://img.shields.io/badge/Framework-Flutter-blue)![](https://img.shields.io/badge/Code-Dart-blue)![](https://img.shields.io/badge/Dart-Async-blue)![](https://img.shields.io/badge/Dart-GetX-green)![](https://img.shields.io/badge/Dart-BloC-red)![](https://img.shields.io/badge/Git-GitHub-black)![](https://img.shields.io/badge/Open-API-green)![](https://img.shields.io/badge/Design-Figma-purple)  
 
-### Resources I learned from
-
-<img src="https://covers.zlibcdn2.com/covers299/books/9f/34/2e/9f342e887b3d2ade65b2cf7f4546f17b.jpg" width="100px"> <img src="https://covers.zlibcdn2.com/covers299/books/a7/e3/d5/a7e3d5ba0b5ab50cfb3aab01290d04ce.jpg" width="100px"> <img src="https://tutsgalaxy.net/wp-content/uploads/2019/12/The-Complete-2020-Flutter-Development-Bootcamp-With-Dart.jpg" height="129px">  
-<img src="https://d25jw0bj0s58lg.cloudfront.net/optimized/2X/c/c9c8a139027304d90a0b05c7d9eb7a31dda312dd_2_690x388.jpeg" height="129px">
 
 ### Web Development Projects
 
