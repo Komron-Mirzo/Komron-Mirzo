@@ -1,10 +1,22 @@
 ### Hey 👋, I'm Komron!
 
-I'm a Full Stack Developer from 🌁 Tashkent, Uzbekistan, with 5+ years of experience building robust and scalable applications. I specialize in PHP, JavaScript, MySQL, HTML, and CSS for web development and have additional expertise in Flutter and Dart for cross-platform mobile app development. Currently, I'm working on innovative side projects 🔥 while actively refining my skills and exploring new technologies.
+I'm a **Full Stack Developer** based in 🌁 Tashkent, Uzbekistan, with **5+ years of experience** in building robust and scalable applications. I specialize in:
 
-### My soft skills
+- **Web Development**: PHP, JavaScript, MySQL, HTML, and CSS
+- **Mobile Development**: Flutter and Dart for cross-platform apps
 
-🙌 Communication, ✍ Fast-learning, 🤵 Coachability, ⌚ Time-management, ✅ Problem-solving, ❤️️ Hardworking
+Currently, I’m working on innovative side projects 🔥, continuously refining my skills, and exploring emerging technologies.
+
+---
+
+### My Soft Skills
+
+- **Communication**  
+- **Fast Learning**  
+- **Coachability**  
+- **Time Management**  
+- **Problem-Solving**  
+- **Hardworking**
 
 ### My tech skills
 
