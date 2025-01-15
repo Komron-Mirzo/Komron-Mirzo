@@ -8,19 +8,7 @@ I'm a Full Stack Developer from 🌁 Tashkent, Uzbekistan, with 5+ years of expe
 
 ### My tech skills
 
-![](https://img.shields.io/badge/Code-PHP-blue)  
-![](https://img.shields.io/badge/Code-JavaScript-yellow)  
-![](https://img.shields.io/badge/Database-MySQL-blue)  
-![](https://img.shields.io/badge/Code-HTML-orange)  
-![](https://img.shields.io/badge/Code-CSS-green)  
-![](https://img.shields.io/badge/Framework-Flutter-blue)  
-![](https://img.shields.io/badge/Code-Dart-blue)  
-![](https://img.shields.io/badge/Dart-Async-blue)  
-![](https://img.shields.io/badge/Dart-GetX-green)  
-![](https://img.shields.io/badge/Dart-BloC-red)  
-![](https://img.shields.io/badge/Git-GitHub-black)  
-![](https://img.shields.io/badge/Open-API-green)  
-![](https://img.shields.io/badge/Design-Figma-purple)  
+![](https://img.shields.io/badge/Code-PHP-blue) ![](https://img.shields.io/badge/Code-JavaScript-yellow)![](https://img.shields.io/badge/Database-MySQL-blue)![](https://img.shields.io/badge/Code-HTML-orange)![](https://img.shields.io/badge/Code-CSS-green)![](https://img.shields.io/badge/Framework-Flutter-blue)![](https://img.shields.io/badge/Code-Dart-blue)![](https://img.shields.io/badge/Dart-Async-blue)![](https://img.shields.io/badge/Dart-GetX-green)![](https://img.shields.io/badge/Dart-BloC-red)![](https://img.shields.io/badge/Git-GitHub-black)![](https://img.shields.io/badge/Open-API-green)![](https://img.shields.io/badge/Design-Figma-purple)  
 
 ### Resources I learned from
 
